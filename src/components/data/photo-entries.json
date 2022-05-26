@@ -2,38 +2,48 @@
   "itemlist" :
   [
     {
-      "src"      : "berlin.jpg",
-      "caption"  : "The Heart of Europe",
+      "src"      : "feel1.jpg",
+      "caption"  : "The heart in the palms of your hands",
       "location" : "Berlin, Germany"
     },
 
     {
-      "src"      : "beverly-hills.jpg",
-      "caption"  : "Southern California",
+      "src"      : "feel2.jpg",
+      "caption"  : "A smile from the inside",
       "location" : "Beverly Hills, USA"
     },
 
     {
-      "src"      : "maple-leaf.jpg",
-      "caption"  : "Autumn",
+      "src"      : "feel3.jpg",
+      "caption"  : "Friendship is the strongest",
       "location" : "Toronto, Canada"
     },
 
     {
-      "src"      : "hawaii.jpg",
-      "caption"  : "Deep Thought",
+      "src"      : "feel4.jpg",
+      "caption"  : "More than sympathy",
       "location" : "Kona, Hawaii, USA"
     },
 
     {
-      "src"      : "wings.jpg",
-      "caption"  : "Wanderlust",
+      "src"      : "fell5.jpg",
+      "caption"  : "More happiness",
       "location" : "San Francisco, USA"
     },
 
     {
-      "src"      : "london.jpg",
-      "caption"  : "Trafalgar Square",
+      "src"      : "feel6.jpg",
+      "caption"  : "Only in private",
+      "location" : "London, UK"
+    },
+ {
+      "src"      : "feel7.jpg",
+      "caption"  : "Only happiness",
+      "location" : "London, UK"
+    },
+ {
+      "src"      : "feel8.jpg",
+      "caption"  : "Super happy",
       "location" : "London, UK"
     }
   ]
